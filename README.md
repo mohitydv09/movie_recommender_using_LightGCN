@@ -18,9 +18,3 @@ The model was trained for 50 epochs with a batch size of 256, using the Adam opt
 
 ## Result
 After training the LightGCN model, it achieved a recall@20 of 0.12.
-
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-# Acknowledgements
-This project utilizes the MovieLens dataset provided by the GroupLens Research lab.
