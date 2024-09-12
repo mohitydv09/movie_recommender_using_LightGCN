@@ -1,6 +1,6 @@
 # Movie Recommendation System using LightGCN
 
-This repository contains my implementation of a movie recommendation system using Light Graph Convolutional Networks (GCNs). The system is built using PyTorch Geometric and it utilizes the MovieLens dataset for training and evaluation.
+This repository contains our implementation of a movie recommendation system using Light Graph Convolutional Networks (GCNs). The system is built using PyTorch Geometric and it utilizes the MovieLens dataset for training and evaluation.
 
 The original paper by Xiangnan He et al., which proposed LightGCN, can be found [here](https://dl.acm.org/doi/abs/10.1145/3397271.3401063).
 
